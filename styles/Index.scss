@@ -1,0 +1,17 @@
+.card {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+    align-items: center;
+}
+
+.btn-primary {
+    background-color: rgb(11, 75, 193);
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
